@@ -1,6 +1,9 @@
 """
 Protein-level dosage compensation analysis.
-Mirrors the RNA-level analysis but uses CCLE proteomics (mass spec) and RPPA data.
+Mirrors the RNA-level analysis but uses three protein datasets:
+  1. CCLE Mass Spec Proteomics (Gygi lab, 371 cell lines, ~12K proteins)
+  2. Sanger ProCan (949 cell lines, 8,498 proteins)
+  3. CCLE RPPA (868 cell lines, ~200 proteins)
 
 For sig pairs:  measure paralog_gene protein when dep_gene's arm is lost
 For non-sig:    measure both genes' protein when their own arm is lost
@@ -242,10 +245,47 @@ rppa_renamed = rppa_raw.rename(columns=rppa_gene_map)
 rppa_matrix = rppa_renamed.T.groupby(level=0).median().T
 print(f"  {rppa_matrix.shape[0]} cell lines × {rppa_matrix.shape[1]} genes")
 
+# ── 6c. ProCan matrix ────────────────────────────────────────────────────────
+
+print("\nLoading ProCan...")
+sidm_to_depmap = dict(zip(model["SangerModelID"], model["ModelID"]))
+
+procan_mapping = pd.read_csv(f"{BASE}/ProCan_mapping_file_averaged.txt", sep="\t")
+# Project_Identifier format: 'SIDM00018;K052' — extract SIDM ID
+procan_mapping["SIDM"] = procan_mapping["Project_Identifier"].str.split(";").str[0]
+procan_mapping["ModelID"] = procan_mapping["SIDM"].map(sidm_to_depmap)
+
+# Build SIDM;CellName → DepMap ID lookup (using the index column of the matrix)
+projid_to_depmap = dict(zip(procan_mapping["Project_Identifier"],
+                            procan_mapping["ModelID"]))
+
+procan_raw = pd.read_csv(f"{BASE}/ProCan_protein_matrix_8498_averaged.txt",
+                         sep="\t", index_col=0)
+
+# Parse gene symbols from column names like 'Q9Y651;SOX21_HUMAN' → 'SOX21'
+def procan_col_to_gene(col):
+    if ";" not in col:
+        return None
+    return col.split(";")[1].split("_")[0]
+
+gene_map = {col: procan_col_to_gene(col) for col in procan_raw.columns}
+procan_raw = procan_raw.rename(columns=gene_map)
+
+# Map row index (Project_Identifier) to DepMap IDs, keep only arm-call cell lines
+procan_raw.index = [projid_to_depmap.get(idx, idx) for idx in procan_raw.index]
+procan_raw = procan_raw[procan_raw.index.isin(arm.index)]
+
+# Average duplicate gene columns, convert to float
+procan_matrix = procan_raw.apply(pd.to_numeric, errors="coerce")
+procan_matrix = procan_matrix.T.groupby(level=0).median().T
+print(f"  {procan_matrix.shape[0]} cell lines × {procan_matrix.shape[1]} genes")
+
 # ── 7. Run analysis for each dataset ─────────────────────────────────────────
 
 results_by_dataset = {}
-for name, expr in [("Mass Spec Proteomics", prot_matrix), ("RPPA", rppa_matrix)]:
+for name, expr in [("Mass Spec\nProteomics", prot_matrix),
+                   ("ProCan", procan_matrix),
+                   ("RPPA", rppa_matrix)]:
     print(f"\nRunning dosage_comp for {name}...")
     sig_res   = dosage_comp(sig_query_df,    expr)
     nsig_res  = dosage_comp(nonsig_query_df, expr)
@@ -258,7 +298,7 @@ for name, expr in [("Mass Spec Proteomics", prot_matrix), ("RPPA", rppa_matrix)]
     combined["norm_exp"] = combined["median_loss"] - combined["median_neutral"]
     results_by_dataset[name] = combined
     combined.to_csv(
-        f"{BASE}/protein_dosage_comp_{name.lower().replace(' ','_')}.csv",
+        f"{BASE}/protein_dosage_comp_{name.lower().replace(' ','_').replace(chr(10),'_')}.csv",
         index=False,
     )
 

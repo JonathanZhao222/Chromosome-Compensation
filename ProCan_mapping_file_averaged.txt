@@ -1,0 +1,950 @@
+Cell_line	SIDM	Project_Identifier	Tissue_type	Cancer_type	Cancer_subtype
+BC-1	SIDM00896	SIDM00896;BC-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Primary effusion lymphoma
+L-363	SIDM00312	SIDM00312;L-363	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+EoL-1-cell	SIDM00277	SIDM00277;EoL-1-cell	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Chronic Eosinophilic Leukemia
+NCI-H727	SIDM01119	SIDM01119;NCI-H727	Lung	Carcinoid Tumour	Lung Carcinoid Tumor
+MV-4-11	SIDM00657	SIDM00657;MV-4-11	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute Monocytic leukemia
+HSC-39	SIDM00045	SIDM00045;HSC-39	Stomach	Gastric Carcinoma	Gastric signet ring cell adenocarcinoma
+RPMI-8402	SIDM00403	SIDM00403;RPMI-8402	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+MDA-MB-453	SIDM00272	SIDM00272;MDA-MB-453	Breast	Breast Carcinoma	Breast adenocarcinoma
+ES8	SIDM00261	SIDM00261;ES8	Bone	Ewing's Sarcoma	
+NKM-1	SIDM00576	SIDM00576;NKM-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+KURAMOCHI	SIDM00554	SIDM00554;KURAMOCHI	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+UACC-62	SIDM00107	SIDM00107;UACC-62	Skin	Melanoma	
+Ca9-22	SIDM00489	SIDM00489;Ca9-22	Head and Neck	Head and Neck Carcinoma	Gingival squamous cell carcinoma
+COLO-684	SIDM00142	SIDM00142;COLO-684	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+SW13	SIDM00814	SIDM00814;SW13	Adrenal Gland	Other Solid Carcinomas	Adrenal cortex carcinoma
+SF539	SIDM00083	SIDM00083;SF539	Central Nervous System	Glioblastoma	
+MDA-MB-175-VII	SIDM00633	SIDM00633;MDA-MB-175-VII	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+NCI-H524	SIDM01129	SIDM01129;NCI-H524	Lung	Small Cell Lung Carcinoma	
+BxPC-3	SIDM00132	SIDM00132;BxPC-3	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+NCI-H847	SIDM01149	SIDM01149;NCI-H847	Lung	Small Cell Lung Carcinoma	
+Hs-766T	SIDM00664	SIDM00664;Hs-766T	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+MSTO-211H	SIDM00640	SIDM00640;MSTO-211H	Lung	Mesothelioma	Pleural Biphasic Mesothelioma
+LC4-1	SIDM00549	SIDM00549;LC4-1	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+PA-TU-8902	SIDM00455	SIDM00455;PA-TU-8902	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+VCaP	SIDM01077	SIDM01077;VCaP	Prostate	Prostate Carcinoma	
+DAN-G	SIDM00950	SIDM00950;DAN-G	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+CAL-148	SIDM00938	SIDM00938;CAL-148	Breast	Breast Carcinoma	
+DB	SIDM00886	SIDM00886;DB	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+TGW	SIDM00324	SIDM00324;TGW	Peripheral Nervous System	Neuroblastoma	
+WSU-NHL	SIDM00412	SIDM00412;WSU-NHL	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Follicular Lymphoma
+SK-MEL-2	SIDM00082	SIDM00082;SK-MEL-2	Skin	Melanoma	
+COR-L279	SIDM00511	SIDM00511;COR-L279	Lung	Small Cell Lung Carcinoma	
+NCI-H1581	SIDM00748	SIDM00748;NCI-H1581	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+LAMA-84	SIDM00346	SIDM00346;LAMA-84	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+NCI-H3122	SIDM00137	SIDM00137;NCI-H3122	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SK-PN-DW	SIDM01097	SIDM01097;SK-PN-DW	Other tissue	Other Solid Carcinomas	Primitive Neuroectodermal Tumor
+MDA-MB-468	SIDM00628	SIDM00628;MDA-MB-468	Breast	Breast Carcinoma	Breast adenocarcinoma
+RF-48	SIDM01092	SIDM01092;RF-48	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+NAMALWA	SIDM00641	SIDM00641;NAMALWA	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+Caov-4	SIDM00918	SIDM00918;Caov-4	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+MS-1	SIDM00245	SIDM00245;MS-1	Lung	Small Cell Lung Carcinoma	
+OCI-AML2	SIDM00446	SIDM00446;OCI-AML2	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+WM-115	SIDM01000	SIDM01000;WM-115	Skin	Melanoma	
+SW1271	SIDM01156	SIDM01156;SW1271	Lung	Small Cell Lung Carcinoma	
+LS-513	SIDM00677	SIDM00677;LS-513	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+Ca-Ski	SIDM00923	SIDM00923;Ca-Ski	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+HSC-2	SIDM00590	SIDM00590;HSC-2	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+RCC-JW	SIDM00817	SIDM00817;RCC-JW	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+SNU-423	SIDM01199	SIDM01199;SNU-423	Liver	Hepatocellular Carcinoma	
+ZR-75-30	SIDM00971	SIDM00971;ZR-75-30	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+SLVL	SIDM00374	SIDM00374;SLVL	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Splenic marginal zone lymphoma
+SUP-T1	SIDM01154	SIDM01154;SUP-T1	Haematopoietic and Lymphoid	T-Lymphoblastic Lymphoma	Childhood T acute lymphoblastic lymphoma
+U-698-M	SIDM00424	SIDM00424;U-698-M	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+RKN	SIDM00353	SIDM00353;RKN	Soft Tissue	Leiomyosarcoma	Ovarian Leiomyosarcoma
+WIL2-NS	SIDM01102	SIDM01102;WIL2-NS	Haematopoietic and Lymphoid	Non-Cancerous	Non-Cancerous (B-lymphoblastoid)
+HuCCT1	SIDM00587	SIDM00587;HuCCT1	Biliary Tract	Biliary Tract Carcinoma	Intrahepatic Cholangiocarcinoma
+NCI-H28	SIDM00720	SIDM00720;NCI-H28	Lung	Mesothelioma	Pleural Sarcomatoid Mesothelioma
+NCI-H2087	SIDM00708	SIDM00708;NCI-H2087	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+ONS-76	SIDM00567	SIDM00567;ONS-76	Central Nervous System	Other Solid Carcinomas	Medulloblastoma
+SW1783	SIDM01164	SIDM01164;SW1783	Central Nervous System	Glioma	Low Grade Glioma
+NB14	SIDM00256	SIDM00256;NB14	Peripheral Nervous System	Neuroblastoma	
+NCI-H1435	SIDM00658	SIDM00658;NCI-H1435	Lung	Non-Small Cell Lung Carcinoma	Lung adenocarcinoma
+SK-N-AS	SIDM01101	SIDM01101;SK-N-AS	Peripheral Nervous System	Neuroblastoma	
+HAL-01	SIDM00289	SIDM00289;HAL-01	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+KP-N-YN	SIDM00556	SIDM00556;KP-N-YN	Peripheral Nervous System	Neuroblastoma	
+RMG-I	SIDM00352	SIDM00352;RMG-I	Ovary	Ovarian Carcinoma	Ovarian clear cell adenocarcinoma
+NCI-H211	SIDM00704	SIDM00704;NCI-H211	Lung	Small Cell Lung Carcinoma	
+PANC-02-03	SIDM01139	SIDM01139;PANC-02-03	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+SKG-IIIa	SIDM00381	SIDM00381;SKG-IIIa	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+OV-90	SIDM01141	SIDM01141;OV-90	Ovary	Ovarian Carcinoma	Ovarian adenocarcinoma
+KNS-62	SIDM00606	SIDM00606;KNS-62	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+SNU-449	SIDM01194	SIDM01194;SNU-449	Liver	Hepatocellular Carcinoma	
+SW1710	SIDM00420	SIDM00420;SW1710	Bladder	Bladder Carcinoma	
+KYSE-510	SIDM01026	SIDM01026;KYSE-510	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+NB13	SIDM00257	SIDM00257;NB13	Peripheral Nervous System	Neuroblastoma	
+L-540	SIDM00329	SIDM00329;L-540	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+SNU-C2B	SIDM00781	SIDM00781;SNU-C2B	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+HT-29	SIDM00136	SIDM00136;HT-29	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+TGBC11TKB	SIDM00251	SIDM00251;TGBC11TKB	Stomach	Gastric Carcinoma	
+A375	SIDM00795	SIDM00795;A375	Skin	Melanoma	Cutaneous melanoma
+A549	SIDM00903	SIDM00903;A549	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+Raji	SIDM00844	SIDM00844;Raji	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+JVM-3	SIDM01012	SIDM01012;JVM-3	Haematopoietic and Lymphoid	Other Blood Cancers	B-Cell Prolymphocytic Leukemia
+BL-41	SIDM00985	SIDM00985;BL-41	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+WM1552C	SIDM00976	SIDM00976;WM1552C	Skin	Melanoma	Cutaneous melanoma
+VMRC-LCD	SIDM00320	SIDM00320;VMRC-LCD	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SK-N-SH	SIDM01098	SIDM01098;SK-N-SH	Peripheral Nervous System	Neuroblastoma	
+PANC-10-05	SIDM01135	SIDM01135;PANC-10-05	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+SW872	SIDM01159	SIDM01159;SW872	Soft Tissue	Other Sarcomas	Liposarcoma
+NCI-H2009	SIDM00756	SIDM00756;NCI-H2009	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+KU812	SIDM00308	SIDM00308;KU812	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+KP-4	SIDM00301	SIDM00301;KP-4	Pancreas	Pancreatic Carcinoma	
+MIA-PaCa-2	SIDM00505	SIDM00505;MIA-PaCa-2	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+PSN1	SIDM00469	SIDM00469;PSN1	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+OCUB-M	SIDM00241	SIDM00241;OCUB-M	Breast	Breast Carcinoma	
+NCI-H810	SIDM01116	SIDM01116;NCI-H810	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+YAPC	SIDM00411	SIDM00411;YAPC	Pancreas	Pancreatic Carcinoma	
+NTERA-2-cl-D1	SIDM01203	SIDM01203;NTERA-2-cl-D1	Testis	Other Solid Carcinomas	Testicular embryonal carcinoma
+MKN28	SIDM00260	SIDM00260;MKN28	Stomach	Gastric Carcinoma	Gastric tubular adenocarcinoma
+SK-CO-1	SIDM01096	SIDM01096;SK-CO-1	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+SK-MEL-1	SIDM01107	SIDM01107;SK-MEL-1	Skin	Melanoma	
+NCI-H2023	SIDM00753	SIDM00753;NCI-H2023	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+SNU-16	SIDM01145	SIDM01145;SNU-16	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+MHH-ES-1	SIDM00386	SIDM00386;MHH-ES-1	Bone	Ewing's Sarcoma	
+T98G	SIDM01171	SIDM01171;T98G	Central Nervous System	Glioblastoma	
+NCI-H526	SIDM01128	SIDM01128;NCI-H526	Lung	Small Cell Lung Carcinoma	
+NCI-H226	SIDM00139	SIDM00139;NCI-H226	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+GAMG	SIDM01055	SIDM01055;GAMG	Central Nervous System	Glioblastoma	
+OVMIU	SIDM00465	SIDM00465;OVMIU	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+SK-OV-3	SIDM00079	SIDM00079;SK-OV-3	Ovary	Ovarian Carcinoma	Ovarian Cystadenocarcinoma
+SW982	SIDM01161	SIDM01161;SW982	Soft Tissue	Other Sarcomas	Synovial Sarcoma
+NCI-H82	SIDM01131	SIDM01131;NCI-H82	Lung	Small Cell Lung Carcinoma	
+TE-5	SIDM00347	SIDM00347;TE-5	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+SH-4	SIDM01079	SIDM01079;SH-4	Skin	Melanoma	
+OC-314	SIDM00220	SIDM00220;OC-314	Ovary	Ovarian Carcinoma	Ovarian serous adenocarcinoma
+KYM-1	SIDM00552	SIDM00552;KYM-1	Soft Tissue	Rhabdomyosarcoma	Alveolar rhabdomyosarcoma
+SK-HEP-1	SIDM01110	SIDM01110;SK-HEP-1	Liver	Hepatocellular Carcinoma	
+RT-112	SIDM00402	SIDM00402;RT-112	Bladder	Bladder Carcinoma	
+UACC-812	SIDM01187	SIDM01187;UACC-812	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+G-361	SIDM00857	SIDM00857;G-361	Skin	Melanoma	
+SNU-387	SIDM01180	SIDM01180;SNU-387	Liver	Hepatocellular Carcinoma	
+MN-60	SIDM00438	SIDM00438;MN-60	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+NCI-H1648	SIDM00746	SIDM00746;NCI-H1648	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+EW-16	SIDM00198	SIDM00198;EW-16	Bone	Ewing's Sarcoma	
+C32	SIDM00890	SIDM00890;C32	Skin	Melanoma	Cutaneous melanoma
+CAPAN-2	SIDM00943	SIDM00943;CAPAN-2	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+OVKATE	SIDM00466	SIDM00466;OVKATE	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+BB65-RCC	SIDM00191	SIDM00191;BB65-RCC	Kidney	Kidney Carcinoma	
+OS-RC-2	SIDM00239	SIDM00239;OS-RC-2	Kidney	Kidney Carcinoma	
+RPMI-8866	SIDM00482	SIDM00482;RPMI-8866	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+BE-13	SIDM01245	SIDM01245;BE-13	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+SCC-4	SIDM01081	SIDM01081;SCC-4	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+MFM-223	SIDM00332	SIDM00332;MFM-223	Breast	Breast Carcinoma	
+LU-139	SIDM00293	SIDM00293;LU-139	Lung	Small Cell Lung Carcinoma	
+KGN	SIDM00302	SIDM00302;KGN	Ovary	Other Solid Carcinomas	Ovarian Granulosa cell tumor
+NCI-N87	SIDM01147	SIDM01147;NCI-N87	Stomach	Gastric Carcinoma	Gastric tubular adenocarcinoma
+KYSE-180	SIDM01030	SIDM01030;KYSE-180	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+CAS-1	SIDM00212	SIDM00212;CAS-1	Central Nervous System	Glioblastoma	
+COLO-668	SIDM00143	SIDM00143;COLO-668	Lung	Small Cell Lung Carcinoma	
+NCI-H1915	SIDM00763	SIDM00763;NCI-H1915	Lung	Non-Small Cell Lung Carcinoma	
+TT	SIDM00484	SIDM00484;TT	Thyroid	Thyroid Gland Carcinoma	Hereditary thyroid gland medullary carcinoma
+CCRF-CEM	SIDM00121	SIDM00121;CCRF-CEM	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+DEL	SIDM00949	SIDM00949;DEL	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Anaplastic Large Cell Lymphoma
+639-V	SIDM00999	SIDM00999;639-V	Bladder	Bladder Carcinoma	
+NUGC-3	SIDM00572	SIDM00572;NUGC-3	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+EN	SIDM01045	SIDM01045;EN	Endometrium	Endometrial Carcinoma	
+HOP-62	SIDM00133	SIDM00133;HOP-62	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+ES4	SIDM00264	SIDM00264;ES4	Bone	Ewing's Sarcoma	
+COR-L105	SIDM00513	SIDM00513;COR-L105	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+GB-1	SIDM00581	SIDM00581;GB-1	Central Nervous System	Glioblastoma	
+LB996-RCC	SIDM00180	SIDM00180;LB996-RCC	Kidney	Kidney Carcinoma	
+OVCAR-5	SIDM00091	SIDM00091;OVCAR-5	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+SU8686	SIDM01188	SIDM01188;SU8686	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+PANC-04-03	SIDM01137	SIDM01137;PANC-04-03	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+SK-LU-1	SIDM01108	SIDM01108;SK-LU-1	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SK-MEL-28	SIDM00081	SIDM00081;SK-MEL-28	Skin	Melanoma	Cutaneous melanoma
+RERF-GC-1B	SIDM00358	SIDM00358;RERF-GC-1B	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+NCI-H2810	SIDM00311	SIDM00311;NCI-H2810	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+MZ1-PC	SIDM00053	SIDM00053;MZ1-PC	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+HuP-T3	SIDM00533	SIDM00533;HuP-T3	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+BT-483	SIDM00892	SIDM00892;BT-483	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+MC-IXC	SIDM01246	SIDM01246;MC-IXC	Bone	Ewing's Sarcoma	
+KP-1N	SIDM00583	SIDM00583;KP-1N	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+NCI-H1092	SIDM00653	SIDM00653;NCI-H1092	Lung	Small Cell Lung Carcinoma	
+EFO-27	SIDM01051	SIDM01051;EFO-27	Ovary	Ovarian Carcinoma	Ovarian mucinous adenocarcinoma
+SUIT-2	SIDM00371	SIDM00371;SUIT-2	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+AGS	SIDM00850	SIDM00850;AGS	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+KYSE-220	SIDM00551	SIDM00551;KYSE-220	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+LCLC-103H	SIDM00345	SIDM00345;LCLC-103H	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+SAS	SIDM00351	SIDM00351;SAS	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+SKN-3	SIDM00375	SIDM00375;SKN-3	Head and Neck	Head and Neck Carcinoma	Oral cavity squamous cell carcinoma
+SK-MEL-24	SIDM01106	SIDM01106;SK-MEL-24	Skin	Melanoma	
+COLO-680N	SIDM00956	SIDM00956;COLO-680N	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+LOU-NH91	SIDM00341	SIDM00341;LOU-NH91	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+GI-ME-N	SIDM00227	SIDM00227;GI-ME-N	Peripheral Nervous System	Neuroblastoma	
+SNG-M	SIDM00373	SIDM00373;SNG-M	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+NCI-H2085	SIDM00709	SIDM00709;NCI-H2085	Lung	Non-Small Cell Lung Carcinoma	Lung adenocarcinoma
+SW1990	SIDM01165	SIDM01165;SW1990	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+HPAC	SIDM00670	SIDM00670;HPAC	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+BICR78	SIDM00501	SIDM00501;BICR78	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+BFTC-909	SIDM00988	SIDM00988;BFTC-909	Kidney	Kidney Carcinoma	Renal pelvis and ureter urothelial carcinoma
+KP-2	SIDM00582	SIDM00582;KP-2	Pancreas	Pancreatic Carcinoma	
+CAL-39	SIDM00935	SIDM00935;CAL-39	Vulva	Vulvar carcinoma	Vulvar Squamous Cell Carcinoma
+ALL-PO	SIDM00211	SIDM00211;ALL-PO	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+AsPC-1	SIDM00899	SIDM00899;AsPC-1	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+CFPAC-1	SIDM00130	SIDM00130;CFPAC-1	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+D-392MG	SIDM00542	SIDM00542;D-392MG	Central Nervous System	Glioblastoma	
+NCI-H2803	SIDM00309	SIDM00309;NCI-H2803	Lung	Mesothelioma	Malignant Pleural Mesothelioma
+LU-99A	SIDM01219	SIDM01219;LU-99A	Lung	Non-Small Cell Lung Carcinoma	Lung giant cell carcinoma
+KM12	SIDM00150	SIDM00150;KM12	Large Intestine	Colorectal Carcinoma	
+SJRH30	SIDM01095	SIDM01095;SJRH30	Soft Tissue	Rhabdomyosarcoma	Alveolar rhabdomyosarcoma
+A2058	SIDM00797	SIDM00797;A2058	Skin	Melanoma	Cutaneous melanoma
+SNU-398	SIDM01181	SIDM01181;SNU-398	Liver	Hepatocellular Carcinoma	
+COLO-829	SIDM00909	SIDM00909;COLO-829	Skin	Melanoma	Cutaneous melanoma
+CP50-MEL-B	SIDM00175	SIDM00175;CP50-MEL-B	Skin	Melanoma	
+FLO-1	SIDM01041	SIDM01041;FLO-1	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+RH-18	SIDM00454	SIDM00454;RH-18	Soft Tissue	Rhabdomyosarcoma	Embryonal Rhabdomyosarcoma
+BB30-HNC	SIDM00172	SIDM00172;BB30-HNC	Head and Neck	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma
+KP-3	SIDM00571	SIDM00571;KP-3	Pancreas	Pancreatic Carcinoma	Pancreatic adenosquamous carcinoma
+PL4	SIDM00042	SIDM00042;PL4	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+JSC-1	SIDM00688	SIDM00688;JSC-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Primary effusion lymphoma
+TCCSUP	SIDM01190	SIDM01190;TCCSUP	Bladder	Bladder Carcinoma	
+EMC-BAC-2	SIDM00047	SIDM00047;EMC-BAC-2	Lung	Non-Small Cell Lung Carcinoma	
+JHH-6	SIDM00615	SIDM00615;JHH-6	Liver	Hepatocellular Carcinoma	
+NCI-H3118	SIDM00517	SIDM00517;NCI-H3118	Head and Neck	Head and Neck Carcinoma	Parotid gland mucoepidermoid carcinoma
+OVISE	SIDM00564	SIDM00564;OVISE	Ovary	Ovarian Carcinoma	Ovarian clear cell adenocarcinoma
+LN-405	SIDM00343	SIDM00343;LN-405	Central Nervous System	Glioblastoma	
+NCI-H1048	SIDM00654	SIDM00654;NCI-H1048	Lung	Small Cell Lung Carcinoma	
+Hs-445	SIDM00668	SIDM00668;Hs-445	Haematopoietic and Lymphoid	Non-Cancerous	Non-Cancerous (B-lymphoblastoid)
+SK-ES-1	SIDM01111	SIDM01111;SK-ES-1	Bone	Ewing's Sarcoma	
+MFE-296	SIDM00334	SIDM00334;MFE-296	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+PANC-03-27	SIDM01138	SIDM01138;PANC-03-27	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+HC-1	SIDM01073	SIDM01073;HC-1	Haematopoietic and Lymphoid	Hairy Cell Leukemia	Hairy Cell Leukemia
+EPLC-272H	SIDM01044	SIDM01044;EPLC-272H	Lung	Other Solid Carcinomas	Lung mucoepidermoid carcinoma
+ALL-SIL	SIDM00994	SIDM00994;ALL-SIL	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+NOS-1	SIDM00242	SIDM00242;NOS-1	Bone	Osteosarcoma	
+CAL-120	SIDM00940	SIDM00940;CAL-120	Breast	Breast Carcinoma	
+HCC1187	SIDM00885	SIDM00885;HCC1187	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+HT55	SIDM00541	SIDM00541;HT55	Large Intestine	Colorectal Carcinoma	
+HeLa	SIDM00846	SIDM00846;HeLa	Cervix	Cervical Carcinoma	Cervical Adenocarcinoma
+NCI-H2141	SIDM00699	SIDM00699;NCI-H2141	Lung	Small Cell Lung Carcinoma	
+ATN-1	SIDM00233	SIDM00233;ATN-1	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+CAPAN-1	SIDM00934	SIDM00934;CAPAN-1	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+LS-411N	SIDM00660	SIDM00660;LS-411N	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+MS751	SIDM00638	SIDM00638;MS751	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+HT-3	SIDM00679	SIDM00679;HT-3	Cervix	Cervical Carcinoma	Cervical Carcinoma
+C3A	SIDM01237	SIDM01237;C3A	Liver	Hepatocellular Carcinoma	Hepatoblastoma
+CAL-51	SIDM00933	SIDM00933;CAL-51	Breast	Breast Carcinoma	
+OSC-20	SIDM00565	SIDM00565;OSC-20	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+HuP-T4	SIDM00531	SIDM00531;HuP-T4	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+KY821	SIDM00553	SIDM00553;KY821	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute Myelomonocytic Leukemia
+BALL-1	SIDM00287	SIDM00287;BALL-1	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+KMOE-2	SIDM01019	SIDM01019;KMOE-2	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Erythroleukemia
+NB(TU)1-10	SIDM00579	SIDM00579;NB(TU)1-10	Peripheral Nervous System	Neuroblastoma	
+DU-4475	SIDM01001	SIDM01001;DU-4475	Breast	Breast Carcinoma	
+42-MG-BA	SIDM00982	SIDM00982;42-MG-BA	Central Nervous System	Glioblastoma	
+P32-ISH	SIDM00362	SIDM00362;P32-ISH	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+DMS-273	SIDM00522	SIDM00522;DMS-273	Lung	Small Cell Lung Carcinoma	
+IMR-5	SIDM01206	SIDM01206;IMR-5	Peripheral Nervous System	Neuroblastoma	
+HuO-3N1	SIDM00584	SIDM00584;HuO-3N1	Bone	Osteosarcoma	
+H9	SIDM01251	SIDM01251;H9	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Cutaneous T-Cell Lymphoma
+JiyoyeP-2003	SIDM00808	SIDM00808;JiyoyeP-2003	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+ASH-3	SIDM00491	SIDM00491;ASH-3	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+WM278	SIDM00975	SIDM00975;WM278	Skin	Melanoma	
+PANC-08-13	SIDM01136	SIDM01136;PANC-08-13	Pancreas	Pancreatic Carcinoma	Pancreatic ductal adenocarcinoma
+MOLT-13	SIDM00433	SIDM00433;MOLT-13	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+CTV-1	SIDM00951	SIDM00951;CTV-1	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+COR-L23	SIDM00512	SIDM00512;COR-L23	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+HEC-1	SIDM00596	SIDM00596;HEC-1	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+P30-OHK	SIDM00364	SIDM00364;P30-OHK	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+JURL-MK1	SIDM01015	SIDM01015;JURL-MK1	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+Daudi	SIDM00845	SIDM00845;Daudi	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+PA-TU-8988T	SIDM00453	SIDM00453;PA-TU-8988T	Pancreas	Pancreatic Carcinoma	Pancreatic adenocarcinoma
+SiHa	SIDM01093	SIDM01093;SiHa	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+NCI-H2591	SIDM00101	SIDM00101;NCI-H2591	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+COLO-678	SIDM00957	SIDM00957;COLO-678	Large Intestine	Colorectal Carcinoma	
+BE2-M17	SIDM01229	SIDM01229;BE2-M17	Peripheral Nervous System	Neuroblastoma	
+DiFi	SIDM00049	SIDM00049;DiFi	Large Intestine	Colorectal Carcinoma	
+TUR	SIDM01205	SIDM01205;TUR	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute Monocytic leukemia
+NCI-H2373	SIDM00103	SIDM00103;NCI-H2373	Lung	Mesothelioma	Pleural Sarcomatoid Mesothelioma
+OACM5-1	SIDM00444	SIDM00444;OACM5-1	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+UMC-11	SIDM01183	SIDM01183;UMC-11	Lung	Carcinoid Tumour	Lung Carcinoid Tumor
+SK-MG-1	SIDM00379	SIDM00379;SK-MG-1	Central Nervous System	Glioma	Low Grade Glioma
+ESO26	SIDM00539	SIDM00539;ESO26	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+SISO	SIDM00394	SIDM00394;SISO	Cervix	Cervical Carcinoma	Cervical Adenocarcinoma
+ESO51	SIDM00538	SIDM00538;ESO51	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+GP5d	SIDM00537	SIDM00537;GP5d	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+Hey	SIDM00968	SIDM00968;Hey	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+LB771-HNC	SIDM00182	SIDM00182;LB771-HNC	Head and Neck	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma
+NCI-H720	SIDM01120	SIDM01120;NCI-H720	Lung	Carcinoid Tumour	Lung Carcinoid Tumor
+8505C	SIDM00996	SIDM00996;8505C	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+KE-37	SIDM01003	SIDM01003;KE-37	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+OACp4C	SIDM00445	SIDM00445;OACp4C	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+C-4-I	SIDM00905	SIDM00905;C-4-I	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+23132-87	SIDM00980	SIDM00980;23132-87	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+RERF-LC-Sq1	SIDM00354	SIDM00354;RERF-LC-Sq1	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+SCC90	SIDM00399	SIDM00399;SCC90	Head and Neck	Head and Neck Carcinoma	Tongue squamous cell carcinoma
+B-CPAP	SIDM00992	SIDM00992;B-CPAP	Thyroid	Thyroid Gland Carcinoma	Poorly differentiated thyroid gland carcinoma
+NCI-H2722	SIDM00099	SIDM00099;NCI-H2722	Lung	Mesothelioma	Malignant Pleural Mesothelioma
+SW756	SIDM01174	SIDM01174;SW756	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+NCI-H513	SIDM00114	SIDM00114;NCI-H513	Lung	Non-Small Cell Lung Carcinoma	Adenosquamous lung carcinoma
+EW-13	SIDM00621	SIDM00621;EW-13	Bone	Ewing's Sarcoma	
+NEC8	SIDM00243	SIDM00243;NEC8	Testis	Other Solid Carcinomas	Testicular embryonal carcinoma
+WM35	SIDM00974	SIDM00974;WM35	Skin	Melanoma	
+SAT	SIDM00350	SIDM00350;SAT	Head and Neck	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma
+NCI-H2369	SIDM00104	SIDM00104;NCI-H2369	Lung	Mesothelioma	Malignant Pleural Mesothelioma
+A253	SIDM00796	SIDM00796;A253	Head and Neck	Head and Neck Carcinoma	Salivary gland squamous cell carcinoma
+CAL-33	SIDM00942	SIDM00942;CAL-33	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+697	SIDM01076	SIDM01076;697	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+LC-1-sq	SIDM00300	SIDM00300;LC-1-sq	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+EM-2	SIDM01047	SIDM01047;EM-2	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+TYK-nu	SIDM00321	SIDM00321;TYK-nu	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+KYSE-50	SIDM00550	SIDM00550;KYSE-50	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+RH-1	SIDM00427	SIDM00427;RH-1	Bone	Ewing's Sarcoma	
+KCL-22	SIDM01004	SIDM01004;KCL-22	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+DBTRG-05MG	SIDM00867	SIDM00867;DBTRG-05MG	Central Nervous System	Glioblastoma	
+HuO9	SIDM00599	SIDM00599;HuO9	Bone	Osteosarcoma	
+TOV-112D	SIDM01170	SIDM01170;TOV-112D	Ovary	Ovarian Carcinoma	Ovarian endometrioid adenocarcinoma
+VA-ES-BJ	SIDM01179	SIDM01179;VA-ES-BJ	Soft Tissue	Other Sarcomas	Epithelioid Sarcoma
+HT-1080	SIDM00828	SIDM00828;HT-1080	Soft Tissue	Other Sarcomas	Fibrosarcoma
+NCI-H2170	SIDM00716	SIDM00716;NCI-H2170	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+T47D	SIDM00097	SIDM00097;T47D	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+NH-12	SIDM00577	SIDM00577;NH-12	Peripheral Nervous System	Neuroblastoma	
+MCF7	SIDM00148	SIDM00148;MCF7	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+786-0	SIDM00125	SIDM00125;786-0	Kidney	Kidney Carcinoma	
+EJM	SIDM01048	SIDM01048;EJM	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+G-402	SIDM00855	SIDM00855;G-402	Soft Tissue	Other Sarcomas	Epithelioid Cell Type Gastrointestinal Stromal Tumor
+KYSE-150	SIDM01031	SIDM01031;KYSE-150	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+TGBC24TKB	SIDM00267	SIDM00267;TGBC24TKB	Biliary Tract	Biliary Tract Carcinoma	Gallbladder carcinoma
+NCI-H1975	SIDM00759	SIDM00759;NCI-H1975	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SUP-HD1	SIDM00422	SIDM00422;SUP-HD1	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+SUP-M2	SIDM00421	SIDM00421;SUP-M2	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Anaplastic Large Cell Lymphoma
+SNU-175	SIDM00216	SIDM00216;SNU-175	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+KOPN-8	SIDM01034	SIDM01034;KOPN-8	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+PF-382	SIDM00451	SIDM00451;PF-382	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+RD	SIDM00847	SIDM00847;RD	Soft Tissue	Rhabdomyosarcoma	Embryonal rhabdomyosarcoma
+CAL-78	SIDM00929	SIDM00929;CAL-78	Bone	Chondrosarcoma	
+RH-41	SIDM00426	SIDM00426;RH-41	Soft Tissue	Rhabdomyosarcoma	Alveolar rhabdomyosarcoma
+NCI-H1155	SIDM00651	SIDM00651;NCI-H1155	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+CA46	SIDM00907	SIDM00907;CA46	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+L-428	SIDM00327	SIDM00327;L-428	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+NCI-H1573	SIDM00749	SIDM00749;NCI-H1573	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+huH-1	SIDM00586	SIDM00586;huH-1	Liver	Hepatocellular Carcinoma	
+8-MG-BA	SIDM00998	SIDM00998;8-MG-BA	Central Nervous System	Glioblastoma	
+CADO-ES1	SIDM00961	SIDM00961;CADO-ES1	Bone	Ewing's Sarcoma	
+OE19	SIDM00479	SIDM00479;OE19	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+HCC1806	SIDM00875	SIDM00875;HCC1806	Breast	Breast Carcinoma	Breast squamous cell carcinoma
+Daoy	SIDM00887	SIDM00887;Daoy	Central Nervous System	Other Solid Carcinomas	Medulloblastoma
+GOTO	SIDM00544	SIDM00544;GOTO	Peripheral Nervous System	Neuroblastoma	
+LU-135	SIDM00294	SIDM00294;LU-135	Lung	Small Cell Lung Carcinoma	
+SIMA	SIDM00395	SIDM00395;SIMA	Peripheral Nervous System	Neuroblastoma	
+DMS-53	SIDM00523	SIDM00523;DMS-53	Lung	Small Cell Lung Carcinoma	
+JVM-2	SIDM01013	SIDM01013;JVM-2	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Mantle cell lymphoma
+GCT	SIDM00853	SIDM00853;GCT	Soft Tissue	Other Sarcomas	Undifferentiated pleomorphic sarcoma
+CHSA8926	SIDM00176	SIDM00176;CHSA8926	Bone	Chondrosarcoma	
+NCI-H1650	SIDM00745	SIDM00745;NCI-H1650	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+MFE-319	SIDM00333	SIDM00333;MFE-319	Endometrium	Endometrial Carcinoma	Endometrial adenosquamous carcinoma
+DG-75	SIDM00948	SIDM00948;DG-75	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+SNU-1	SIDM01146	SIDM01146;SNU-1	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+NCI-H661	SIDM01122	SIDM01122;NCI-H661	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+UACC-257	SIDM00108	SIDM00108;UACC-257	Skin	Melanoma	
+TE-4	SIDM00250	SIDM00250;TE-4	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+NCI-H446	SIDM00965	SIDM00965;NCI-H446	Lung	Small Cell Lung Carcinoma	
+HCC-827	SIDM01067	SIDM01067;HCC-827	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+BT-20	SIDM00893	SIDM00893;BT-20	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+EW-18	SIDM00197	SIDM00197;EW-18	Bone	Ewing's Sarcoma	
+JIMT-1	SIDM01037	SIDM01037;JIMT-1	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+MDST8	SIDM00527	SIDM00527;MDST8	Large Intestine	Colorectal Carcinoma	
+HTC-C3	SIDM00496	SIDM00496;HTC-C3	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+KYSE-410	SIDM01028	SIDM01028;KYSE-410	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+FU-OV-1	SIDM01040	SIDM01040;FU-OV-1	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+JJN-3	SIDM01036	SIDM01036;JJN-3	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+MOLP-8	SIDM00434	SIDM00434;MOLP-8	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+COLO-205	SIDM00826	SIDM00826;COLO-205	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+EVSA-T	SIDM01042	SIDM01042;EVSA-T	Breast	Breast Carcinoma	
+IM-95	SIDM00602	SIDM00602;IM-95	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+AU565	SIDM00898	SIDM00898;AU565	Breast	Breast Carcinoma	Breast adenocarcinoma
+KARPAS-231	SIDM01017	SIDM01017;KARPAS-231	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+Calu-6	SIDM00921	SIDM00921;Calu-6	Lung	Non-Small Cell Lung Carcinoma	Lung adenocarcinoma
+OE21	SIDM00478	SIDM00478;OE21	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+IGR-1	SIDM01060	SIDM01060;IGR-1	Skin	Melanoma	
+OVCA420	SIDM00967	SIDM00967;OVCA420	Ovary	Ovarian Carcinoma	Ovarian serous adenocarcinoma
+SW626	SIDM01168	SIDM01168;SW626	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+NCI-H1688	SIDM00792	SIDM00792;NCI-H1688	Lung	Small Cell Lung Carcinoma	
+JHH-1	SIDM00618	SIDM00618;JHH-1	Liver	Hepatocellular Carcinoma	
+A172	SIDM00799	SIDM00799;A172	Central Nervous System	Glioblastoma	
+AM-38	SIDM00492	SIDM00492;AM-38	Central Nervous System	Glioblastoma	
+RT4	SIDM01085	SIDM01085;RT4	Bladder	Bladder Carcinoma	
+NCI-H1341	SIDM00646	SIDM00646;NCI-H1341	Lung	Small Cell Lung Carcinoma	
+J82	SIDM00693	SIDM00693;J82	Bladder	Bladder Carcinoma	
+HGC-27	SIDM00290	SIDM00290;HGC-27	Stomach	Gastric Carcinoma	
+PA-1	SIDM01140	SIDM01140;PA-1	Ovary	Other Solid Carcinomas	Ovarian mixed germ cell tumor
+NCI-H747	SIDM00778	SIDM00778;NCI-H747	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+TALL-1	SIDM00370	SIDM00370;TALL-1	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+HL-60	SIDM00829	SIDM00829;HL-60	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+HCE-4	SIDM00052	SIDM00052;HCE-4	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+NCI-H2347	SIDM00726	SIDM00726;NCI-H2347	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCI-H2405	SIDM00724	SIDM00724;NCI-H2405	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+HT-115	SIDM00534	SIDM00534;HT-115	Large Intestine	Colorectal Carcinoma	
+NCI-H322M	SIDM00117	SIDM00117;NCI-H322M	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+KU-19-19	SIDM01033	SIDM01033;KU-19-19	Bladder	Bladder Carcinoma	
+CL-11	SIDM00944	SIDM00944;CL-11	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+HDQ-P1	SIDM01062	SIDM01062;HDQ-P1	Breast	Breast Carcinoma	
+A427	SIDM00810	SIDM00810;A427	Lung	Non-Small Cell Lung Carcinoma	Lung adenocarcinoma
+GDM-1	SIDM01057	SIDM01057;GDM-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+GA-10	SIDM00854	SIDM00854;GA-10	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+MHH-PREB-1	SIDM00388	SIDM00388;MHH-PREB-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+KM-H2	SIDM01018	SIDM01018;KM-H2	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+MES-SA	SIDM00625	SIDM00625;MES-SA	Soft Tissue	Other Sarcomas	Uterine Corpus Sarcoma
+OCI-M1	SIDM00458	SIDM00458;OCI-M1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+SU-DHL-8	SIDM00423	SIDM00423;SU-DHL-8	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+SKM-1	SIDM00380	SIDM00380;SKM-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+OCI-AML5	SIDM00461	SIDM00461;OCI-AML5	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+NCI-H716	SIDM00779	SIDM00779;NCI-H716	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+HuTu-80	SIDM00694	SIDM00694;HuTu-80	Small Intestine	Other Solid Carcinomas	Duodenal adenocarcinoma
+SW1573	SIDM01163	SIDM01163;SW1573	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCI-H1781	SIDM00754	SIDM00754;NCI-H1781	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+RL95-2	SIDM01088	SIDM01088;RL95-2	Endometrium	Endometrial Carcinoma	Endometrial adenosquamous carcinoma
+NCI-H1944	SIDM00762	SIDM00762;NCI-H1944	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+EW-1	SIDM00205	SIDM00205;EW-1	Bone	Ewing's Sarcoma	
+OVCAR-4	SIDM00092	SIDM00092;OVCAR-4	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+FADU	SIDM00860	SIDM00860;FADU	Head and Neck	Head and Neck Carcinoma	Hypopharyngeal squamous cell carcinoma
+RPMI-7951	SIDM01087	SIDM01087;RPMI-7951	Skin	Melanoma	
+COLO-792	SIDM00140	SIDM00140;COLO-792	Skin	Melanoma	
+BV-173	SIDM00962	SIDM00962;BV-173	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+NUGC-4	SIDM00570	SIDM00570;NUGC-4	Stomach	Gastric Carcinoma	Gastric signet ring cell adenocarcinoma
+SK-MEL-5	SIDM00080	SIDM00080;SK-MEL-5	Skin	Melanoma	Cutaneous melanoma
+KYSE-520	SIDM01025	SIDM01025;KYSE-520	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+KLE	SIDM00686	SIDM00686;KLE	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+C2BBe1	SIDM01233	SIDM01233;C2BBe1	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+NCI-H1563	SIDM00751	SIDM00751;NCI-H1563	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SF268	SIDM00085	SIDM00085;SF268	Central Nervous System	Glioma	Low Grade Glioma
+TE-6	SIDM00328	SIDM00328;TE-6	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+CHP-212	SIDM00910	SIDM00910;CHP-212	Peripheral Nervous System	Neuroblastoma	
+COLO-824	SIDM00954	SIDM00954;COLO-824	Breast	Breast Carcinoma	
+ES-2	SIDM00861	SIDM00861;ES-2	Ovary	Ovarian Carcinoma	Ovarian clear cell adenocarcinoma
+HT-1197	SIDM00676	SIDM00676;HT-1197	Bladder	Bladder Carcinoma	
+HCC1954	SIDM00872	SIDM00872;HCC1954	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+TOV-21G	SIDM01169	SIDM01169;TOV-21G	Ovary	Ovarian Carcinoma	Ovarian clear cell adenocarcinoma
+RPMI-8226	SIDM00087	SIDM00087;RPMI-8226	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+HCC2157	SIDM00774	SIDM00774;HCC2157	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+EFM-192A	SIDM01002	SIDM01002;EFM-192A	Breast	Breast Carcinoma	
+HEL	SIDM00594	SIDM00594;HEL	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Erythroleukemia
+A498	SIDM00124	SIDM00124;A498	Kidney	Kidney Carcinoma	
+NCI-H2052	SIDM00713	SIDM00713;NCI-H2052	Lung	Mesothelioma	Pleural Sarcomatoid Mesothelioma
+MEL-JUSO	SIDM00336	SIDM00336;MEL-JUSO	Skin	Melanoma	Cutaneous melanoma
+NCI-H196	SIDM00761	SIDM00761;NCI-H196	Lung	Small Cell Lung Carcinoma	
+DK-MG	SIDM00947	SIDM00947;DK-MG	Central Nervous System	Glioblastoma	
+NCI-H23	SIDM00138	SIDM00138;NCI-H23	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SU-DHL-10	SIDM00389	SIDM00389;SU-DHL-10	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+SUP-B8	SIDM01177	SIDM01177;SUP-B8	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+JHH-4	SIDM00616	SIDM00616;JHH-4	Liver	Hepatocellular Carcinoma	
+ABC-1	SIDM00494	SIDM00494;ABC-1	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+KMS-12-BM	SIDM01020	SIDM01020;KMS-12-BM	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+Jurkat	SIDM01016	SIDM01016;Jurkat	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+TT2609-C02	SIDM00418	SIDM00418;TT2609-C02	Thyroid	Thyroid Gland Carcinoma	Thyroid gland follicular carcinoma
+TE-1	SIDM00369	SIDM00369;TE-1	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+HSC-4	SIDM00588	SIDM00588;HSC-4	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+HCC2998	SIDM00118	SIDM00118;HCC2998	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+5637	SIDM00807	SIDM00807;5637	Bladder	Bladder Carcinoma	
+LCLC-97TM1	SIDM00344	SIDM00344;LCLC-97TM1	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+PC-3	SIDM00088	SIDM00088;PC-3	Prostate	Prostate Carcinoma	
+TC-71	SIDM00419	SIDM00419;TC-71	Bone	Ewing's Sarcoma	
+D-423MG	SIDM00209	SIDM00209;D-423MG	Central Nervous System	Glioblastoma	
+NB5	SIDM00254	SIDM00254;NB5	Peripheral Nervous System	Neuroblastoma	
+SCC-15	SIDM01083	SIDM01083;SCC-15	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+SK-N-DZ	SIDM01100	SIDM01100;SK-N-DZ	Peripheral Nervous System	Neuroblastoma	
+SNU-C5	SIDM00498	SIDM00498;SNU-C5	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+NCI-H650	SIDM01124	SIDM01124;NCI-H650	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCI-H2228	SIDM00729	SIDM00729;NCI-H2228	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+EC-GI-10	SIDM00278	SIDM00278;EC-GI-10	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+NCI-H1876	SIDM00766	SIDM00766;NCI-H1876	Lung	Small Cell Lung Carcinoma	
+HCC1143	SIDM00866	SIDM00866;HCC1143	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+FTC-133	SIDM00213	SIDM00213;FTC-133	Thyroid	Thyroid Gland Carcinoma	Thyroid gland follicular carcinoma
+MOLT-16	SIDM00431	SIDM00431;MOLT-16	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+SCC-3	SIDM00384	SIDM00384;SCC-3	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+NCI-H1694	SIDM00741	SIDM00741;NCI-H1694	Lung	Small Cell Lung Carcinoma	
+RCC10RGB	SIDM00235	SIDM00235;RCC10RGB	Kidney	Kidney Carcinoma	
+RS4-11	SIDM01086	SIDM01086;RS4-11	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+NCI-H209	SIDM00706	SIDM00706;NCI-H209	Lung	Small Cell Lung Carcinoma	
+NCI-H292	SIDM00493	SIDM00493;NCI-H292	Lung	Other Solid Carcinomas	Lung mucoepidermoid carcinoma
+U-118-MG	SIDM01193	SIDM01193;U-118-MG	Central Nervous System	Glioma	Low Grade Glioma
+LN-18	SIDM00685	SIDM00685;LN-18	Central Nervous System	Glioblastoma	
+647-V	SIDM00983	SIDM00983;647-V	Bladder	Bladder Carcinoma	
+SNU-407	SIDM00214	SIDM00214;SNU-407	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+SNU-5	SIDM01144	SIDM01144;SNU-5	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+HT	SIDM00661	SIDM00661;HT	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+HOP-92	SIDM00134	SIDM00134;HOP-92	Lung	Non-Small Cell Lung Carcinoma	
+KNS-81-FD	SIDM01210	SIDM01210;KNS-81-FD	Central Nervous System	Glioblastoma	
+NCI-H596	SIDM01127	SIDM01127;NCI-H596	Lung	Non-Small Cell Lung Carcinoma	Adenosquamous lung carcinoma
+KYSE-140	SIDM01032	SIDM01032;KYSE-140	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+EKVX	SIDM00119	SIDM00119;EKVX	Lung	Non-Small Cell Lung Carcinoma	Lung adenocarcinoma
+BEN	SIDM00990	SIDM00990;BEN	Lung	Non-Small Cell Lung Carcinoma	
+JEKO-1	SIDM01038	SIDM01038;JEKO-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Mantle cell lymphoma
+CTB-1	SIDM00283	SIDM00283;CTB-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+ChaGo-K-1	SIDM00924	SIDM00924;ChaGo-K-1	Lung	Other Solid Carcinomas	Bronchogenic carcinoma
+MOLM-13	SIDM00437	SIDM00437;MOLM-13	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+NB69	SIDM00244	SIDM00244;NB69	Peripheral Nervous System	Neuroblastoma	
+PWR-1E	SIDM01114	SIDM01114;PWR-1E	Prostate	Non-Cancerous	SV-40 Transformed Prostatic
+NCI-H520	SIDM01130	SIDM01130;NCI-H520	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+SUP-B15	SIDM01176	SIDM01176;SUP-B15	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+OVCAR-8	SIDM00090	SIDM00090;OVCAR-8	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+LNCaP-Clone-FGC	SIDM00683	SIDM00683;LNCaP-Clone-FGC	Prostate	Prostate Carcinoma	
+EBC-1	SIDM00486	SIDM00486;EBC-1	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+JEG-3	SIDM01218	SIDM01218;JEG-3	Placenta	Other Solid Carcinomas	Gestational choriocarcinoma
+SBC-1	SIDM00365	SIDM00365;SBC-1	Lung	Small Cell Lung Carcinoma	
+D-502MG	SIDM00208	SIDM00208;D-502MG	Central Nervous System	Glioblastoma	
+OVTOKO	SIDM00425	SIDM00425;OVTOKO	Ovary	Ovarian Carcinoma	Ovarian clear cell adenocarcinoma
+HT-144	SIDM00695	SIDM00695;HT-144	Skin	Melanoma	
+CAL-29	SIDM00936	SIDM00936;CAL-29	Bladder	Bladder Carcinoma	
+NCI-H1623	SIDM00747	SIDM00747;NCI-H1623	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+BT-474	SIDM00963	SIDM00963;BT-474	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+RL	SIDM01089	SIDM01089;RL	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+NCI-H1793	SIDM00755	SIDM00755;NCI-H1793	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+KMRC-20	SIDM00609	SIDM00609;KMRC-20	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+CAL-27	SIDM00937	SIDM00937;CAL-27	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+KG-1	SIDM00785	SIDM00785;KG-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+TK	SIDM00323	SIDM00323;TK	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+BHT-101	SIDM00987	SIDM00987;BHT-101	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+G-401	SIDM00856	SIDM00856;G-401	Other tissue	Other Solid Carcinomas	Rhabdoid Tumour of the Kidney
+NCI-H2122	SIDM00702	SIDM00702;NCI-H2122	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+LXF-289	SIDM00339	SIDM00339;LXF-289	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+OSC-19	SIDM00566	SIDM00566;OSC-19	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+AN3-CA	SIDM00901	SIDM00901;AN3-CA	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+SBC-5	SIDM00368	SIDM00368;SBC-5	Lung	Small Cell Lung Carcinoma	
+MM1S	SIDM01265	SIDM01265;MM1S	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+NCI-H1963	SIDM00760	SIDM00760;NCI-H1963	Lung	Small Cell Lung Carcinoma	
+KASUMI-1	SIDM01005	SIDM01005;KASUMI-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Childhood Acute Myeloid Leukemia with Maturation
+HCC-15	SIDM01072	SIDM01072;HCC-15	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+COR-L311	SIDM00509	SIDM00509;COR-L311	Lung	Small Cell Lung Carcinoma	
+WM793B	SIDM00973	SIDM00973;WM793B	Skin	Melanoma	
+A204	SIDM00798	SIDM00798;A204	Soft Tissue	Rhabdomyosarcoma	Embryonal rhabdomyosarcoma
+OV-56	SIDM00475	SIDM00475;OV-56	Ovary	Ovarian Carcinoma	Ovarian serous adenocarcinoma
+NCI-H2030	SIDM00715	SIDM00715;NCI-H2030	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+CAKI-1	SIDM00941	SIDM00941;CAKI-1	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+MC116	SIDM00637	SIDM00637;MC116	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+NB4	SIDM00428	SIDM00428;NB4	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute promyelocytic leukemia
+SK-MES-1	SIDM01103	SIDM01103;SK-MES-1	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+JM1	SIDM00689	SIDM00689;JM1	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	
+RCC-AB	SIDM00821	SIDM00821;RCC-AB	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+SF295	SIDM00084	SIDM00084;SF295	Central Nervous System	Glioblastoma	
+MY-M12	SIDM01217	SIDM01217;MY-M12	Haematopoietic and Lymphoid	Other Blood Cancers	Acute Biphenotypic Leukemia
+KOSC-2	SIDM00603	SIDM00603;KOSC-2	Head and Neck	Head and Neck Carcinoma	Floor of mouth squamous cell carcinoma
+SW156	SIDM01162	SIDM01162;SW156	Kidney	Kidney Carcinoma	
+KMH-2	SIDM00619	SIDM00619;KMH-2	Thyroid	Thyroid Gland Carcinoma	Anaplastic Thyroid Carcinoma
+KON	SIDM00604	SIDM00604;KON	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+NCI-H1838	SIDM00769	SIDM00769;NCI-H1838	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCI-H1568	SIDM00750	SIDM00750;NCI-H1568	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+RERF-LC-KJ	SIDM00356	SIDM00356;RERF-LC-KJ	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCI-H1770	SIDM00737	SIDM00737;NCI-H1770	Lung	Non-Small Cell Lung Carcinoma	
+A704	SIDM00849	SIDM00849;A704	Kidney	Kidney Carcinoma	
+HCC1428	SIDM00881	SIDM00881;HCC1428	Breast	Breast Carcinoma	Breast adenocarcinoma
+LB2241-RCC	SIDM00186	SIDM00186;LB2241-RCC	Kidney	Kidney Carcinoma	
+SK-MEL-30	SIDM00392	SIDM00392;SK-MEL-30	Skin	Melanoma	Cutaneous melanoma
+OV-7	SIDM00474	SIDM00474;OV-7	Ovary	Ovarian Carcinoma	
+HCC1599	SIDM00877	SIDM00877;HCC1599	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+Farage	SIDM00859	SIDM00859;Farage	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+A3-KAW	SIDM00495	SIDM00495;A3-KAW	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+KARPAS-45	SIDM01007	SIDM01007;KARPAS-45	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+IGROV-1	SIDM00151	SIDM00151;IGROV-1	Ovary	Ovarian Carcinoma	Ovarian endometrioid adenocarcinoma
+MDA-MB-361	SIDM00528	SIDM00528;MDA-MB-361	Breast	Breast Carcinoma	Breast adenocarcinoma
+GRANTA-519	SIDM01058	SIDM01058;GRANTA-519	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Mantle cell lymphoma
+U251	SIDM00111	SIDM00111;U251	Central Nervous System	Glioma	Low Grade Glioma
+HCC1937	SIDM00874	SIDM00874;HCC1937	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+SW780	SIDM01160	SIDM01160;SW780	Bladder	Bladder Carcinoma	
+LN-229	SIDM00684	SIDM00684;LN-229	Central Nervous System	Glioblastoma	
+BICR22	SIDM00485	SIDM00485;BICR22	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+DJM-1	SIDM00281	SIDM00281;DJM-1	Skin	Other Solid Carcinomas	Skin squamous cell carcinoma
+LB1047-RCC	SIDM00187	SIDM00187;LB1047-RCC	Kidney	Kidney Carcinoma	
+P31-FUJ	SIDM00363	SIDM00363;P31-FUJ	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Childhood Acute Myeloid Leukemia
+RCH-ACV	SIDM00449	SIDM00449;RCH-ACV	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+HCC2218	SIDM00772	SIDM00772;HCC2218	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+IM-9	SIDM00632	SIDM00632;IM-9	Haematopoietic and Lymphoid	Non-Cancerous	Non-Cancerous (B-lymphoblastoid)
+T24	SIDM01184	SIDM01184;T24	Bladder	Bladder Carcinoma	
+HCC-366	SIDM01070	SIDM01070;HCC-366	Lung	Non-Small Cell Lung Carcinoma	Adenosquamous lung carcinoma
+MEL-HO	SIDM00337	SIDM00337;MEL-HO	Skin	Melanoma	
+IPC-298	SIDM01059	SIDM01059;IPC-298	Skin	Melanoma	Cutaneous melanoma
+KNS-42	SIDM00607	SIDM00607;KNS-42	Central Nervous System	Glioblastoma	
+HuH-7	SIDM00585	SIDM00585;HuH-7	Liver	Hepatocellular Carcinoma	
+TE-10	SIDM00349	SIDM00349;TE-10	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+COLO-800	SIDM00515	SIDM00515;COLO-800	Skin	Melanoma	Cutaneous melanoma
+NCI-H1693	SIDM00742	SIDM00742;NCI-H1693	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+JHOS-4	SIDM00303	SIDM00303;JHOS-4	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+JHOS-2	SIDM00305	SIDM00305;JHOS-2	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+PE-CA-PJ15	SIDM00473	SIDM00473;PE-CA-PJ15	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+H3255	SIDM00046	SIDM00046;H3255	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+NCC010	SIDM00231	SIDM00231;NCC010	Kidney	Kidney Carcinoma	
+Hs-939-T	SIDM00663	SIDM00663;Hs-939-T	Skin	Melanoma	
+Hep3B2-1-7	SIDM00672	SIDM00672;Hep3B2-1-7	Liver	Hepatocellular Carcinoma	
+NB1	SIDM00578	SIDM00578;NB1	Peripheral Nervous System	Neuroblastoma	
+THP-1	SIDM01172	SIDM01172;THP-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute Monocytic leukemia
+JHU-011	SIDM00128	SIDM00128;JHU-011	Head and Neck	Head and Neck Carcinoma	Laryngeal squamous cell carcinoma
+K2	SIDM00126	SIDM00126;K2	Skin	Melanoma	
+HCC1419	SIDM00882	SIDM00882;HCC1419	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+SCH	SIDM00383	SIDM00383;SCH	Stomach	Gastric Carcinoma	Gastric choriocarcinoma
+MMAc-SF	SIDM01242	SIDM01242;MMAc-SF	Skin	Melanoma	
+NMC-G1	SIDM00575	SIDM00575;NMC-G1	Central Nervous System	Glioma	Low Grade Glioma
+Hs-746T	SIDM00665	SIDM00665;Hs-746T	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+NCI-H290	SIDM00518	SIDM00518;NCI-H290	Lung	Mesothelioma	Malignant Pleural Mesothelioma
+HCC1569	SIDM00878	SIDM00878;HCC1569	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+D-542MG	SIDM00207	SIDM00207;D-542MG	Central Nervous System	Glioblastoma	
+SW962	SIDM01178	SIDM01178;SW962	Vulva	Vulvar carcinoma	Vulvar Carcinoma
+HA7-RCC	SIDM00188	SIDM00188;HA7-RCC	Kidney	Kidney Carcinoma	
+BHY	SIDM00986	SIDM00986;BHY	Head and Neck	Head and Neck Carcinoma	Head and Neck Squamous Cell Carcinoma
+JAR	SIDM01039	SIDM01039;JAR	Placenta	Other Solid Carcinomas	Gestational choriocarcinoma
+451Lu	SIDM01240	SIDM01240;451Lu	Skin	Melanoma	Cutaneous melanoma
+KMS-11	SIDM00608	SIDM00608;KMS-11	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+ML-1	SIDM00442	SIDM00442;ML-1	Thyroid	Thyroid Gland Carcinoma	Thyroid gland follicular carcinoma
+OV-17R	SIDM00476	SIDM00476;OV-17R	Ovary	Ovarian Carcinoma	Ovarian adenocarcinoma
+SNU-81	SIDM00193	SIDM00193;SNU-81	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+OAW-28	SIDM00481	SIDM00481;OAW-28	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+ES5	SIDM00263	SIDM00263;ES5	Bone	Ewing's Sarcoma	
+RERF-LC-MS	SIDM00355	SIDM00355;RERF-LC-MS	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+EW-24	SIDM00195	SIDM00195;EW-24	Bone	Ewing's Sarcoma	
+CW-2	SIDM00282	SIDM00282;CW-2	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+NCI-H2135	SIDM00700	SIDM00700;NCI-H2135	Lung	Non-Small Cell Lung Carcinoma	
+SU-DHL-1	SIDM00390	SIDM00390;SU-DHL-1	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Anaplastic Large Cell Lymphoma
+CAL-12T	SIDM00939	SIDM00939;CAL-12T	Lung	Non-Small Cell Lung Carcinoma	
+PCI-15A	SIDM00270	SIDM00270;PCI-15A	Head and Neck	Head and Neck Carcinoma	Pyriform fossa squamous cell carcinoma
+OMC-1	SIDM00240	SIDM00240;OMC-1	Cervix	Cervical Carcinoma	Cervical Squamous Cell Carcinoma
+YT	SIDM00410	SIDM00410;YT	Haematopoietic and Lymphoid	Other Blood Cancers	Natural Killer Cell Lymphoblastic Leukemia or Lymphoma
+NCI-H1436	SIDM00697	SIDM00697;NCI-H1436	Lung	Small Cell Lung Carcinoma	
+CML-T1	SIDM00958	SIDM00958;CML-T1	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+D-247MG	SIDM00622	SIDM00622;D-247MG	Central Nervous System	Glioblastoma	
+GR-ST	SIDM01259	SIDM01259;GR-ST	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+MHH-NB-11	SIDM00387	SIDM00387;MHH-NB-11	Peripheral Nervous System	Neuroblastoma	
+RKO	SIDM01090	SIDM01090;RKO	Large Intestine	Colorectal Carcinoma	
+LK-2	SIDM00548	SIDM00548;LK-2	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+BC-3	SIDM00895	SIDM00895;BC-3	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Primary effusion lymphoma
+DSH1	SIDM00970	SIDM00970;DSH1	Bladder	Bladder Carcinoma	
+Becker	SIDM00490	SIDM00490;Becker	Central Nervous System	Glioma	Low Grade Glioma
+NCI-H2444	SIDM00723	SIDM00723;NCI-H2444	Lung	Non-Small Cell Lung Carcinoma	
+EW-11	SIDM00203	SIDM00203;EW-11	Bone	Ewing's Sarcoma	
+Calu-3	SIDM00922	SIDM00922;Calu-3	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+22RV1	SIDM00499	SIDM00499;22RV1	Prostate	Prostate Carcinoma	
+SBC-3	SIDM00367	SIDM00367;SBC-3	Lung	Small Cell Lung Carcinoma	
+C-33-A	SIDM00889	SIDM00889;C-33-A	Cervix	Cervical Carcinoma	Cervical Squamous Cell Carcinoma
+LOUCY	SIDM00342	SIDM00342;LOUCY	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+LU-65	SIDM00547	SIDM00547;LU-65	Lung	Non-Small Cell Lung Carcinoma	Lung giant cell carcinoma
+VAL	SIDM00416	SIDM00416;VAL	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+KALS-1	SIDM00613	SIDM00613;KALS-1	Central Nervous System	Glioblastoma	
+QIMR-WIL	SIDM00467	SIDM00467;QIMR-WIL	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+SNU-61	SIDM00194	SIDM00194;SNU-61	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+SR	SIDM00096	SIDM00096;SR	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Anaplastic large cell lymphoma
+A2780	SIDM00210	SIDM00210;A2780	Ovary	Ovarian Carcinoma	Ovarian endometrioid adenocarcinoma
+A388	SIDM00794	SIDM00794;A388	Skin	Other Solid Carcinomas	Skin squamous Cell Carcinoma
+SNB75	SIDM00095	SIDM00095;SNB75	Central Nervous System	Glioblastoma	
+SW1088	SIDM01155	SIDM01155;SW1088	Central Nervous System	Glioma	Low Grade Glioma
+YKG-1	SIDM00315	SIDM00315;YKG-1	Central Nervous System	Glioblastoma	
+MZ2-MEL	SIDM00179	SIDM00179;MZ2-MEL	Skin	Melanoma	
+NCI-H1437	SIDM00734	SIDM00734;NCI-H1437	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+MKN7	SIDM00560	SIDM00560;MKN7	Stomach	Gastric Carcinoma	Gastric tubular adenocarcinoma
+G-MEL	SIDM00129	SIDM00129;G-MEL	Skin	Melanoma	Cutaneous melanoma
+MEG-01	SIDM00526	SIDM00526;MEG-01	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+SW48	SIDM00837	SIDM00837;SW48	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+RCC-FG2	SIDM00819	SIDM00819;RCC-FG2	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+NALM-6	SIDM00429	SIDM00429;NALM-6	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+REH	SIDM00447	SIDM00447;REH	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+MG-63	SIDM00525	SIDM00525;MG-63	Bone	Osteosarcoma	
+M059J	SIDM00659	SIDM00659;M059J	Central Nervous System	Glioblastoma	
+KS-1	SIDM00555	SIDM00555;KS-1	Central Nervous System	Glioblastoma	
+EW-22	SIDM00196	SIDM00196;EW-22	Bone	Ewing's Sarcoma	
+LS1034	SIDM00681	SIDM00681;LS1034	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+YMB-1-E	SIDM01261	SIDM01261;YMB-1-E	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+UACC-893	SIDM01186	SIDM01186;UACC-893	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+KATOIII	SIDM00687	SIDM00687;KATOIII	Stomach	Gastric Carcinoma	Gastric signet ring cell adenocarcinoma
+NCI-H2595	SIDM00100	SIDM00100;NCI-H2595	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+GAK	SIDM00543	SIDM00543;GAK	Skin	Melanoma	Vulvar melanoma
+AMO-1	SIDM00993	SIDM00993;AMO-1	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+NB17	SIDM00255	SIDM00255;NB17	Peripheral Nervous System	Neuroblastoma	
+T-T	SIDM00322	SIDM00322;T-T	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+SK-GT-4	SIDM00483	SIDM00483;SK-GT-4	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+HARA	SIDM00598	SIDM00598;HARA	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+LU-134-A	SIDM00296	SIDM00296;LU-134-A	Lung	Small Cell Lung Carcinoma	
+CAL-72	SIDM00930	SIDM00930;CAL-72	Bone	Osteosarcoma	
+TE-15	SIDM00249	SIDM00249;TE-15	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+PEO1	SIDM00472	SIDM00472;PEO1	Ovary	Ovarian Carcinoma	Ovarian cystadenocarcinoma
+NY	SIDM00569	SIDM00569;NY	Bone	Osteosarcoma	
+Mewo	SIDM00545	SIDM00545;Mewo	Skin	Melanoma	Cutaneous melanoma
+MPP-89	SIDM00222	SIDM00222;MPP-89	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+T84	SIDM00782	SIDM00782;T84	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+EFO-21	SIDM01052	SIDM01052;EFO-21	Ovary	Ovarian Carcinoma	Ovarian Cystadenocarcinoma
+KELLY	SIDM01009	SIDM01009;KELLY	Peripheral Nervous System	Neuroblastoma	
+DND-41	SIDM00946	SIDM00946;DND-41	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+DOK	SIDM00540	SIDM00540;DOK	Head and Neck	Head and Neck Carcinoma	Oral Dysplasia
+CGTH-W-1	SIDM01248	SIDM01248;CGTH-W-1	Thyroid	Thyroid Gland Carcinoma	Thyroid gland squamous cell carcinoma
+MDA-MB-157	SIDM00529	SIDM00529;MDA-MB-157	Breast	Breast Carcinoma	
+RPMI-6666	SIDM00813	SIDM00813;RPMI-6666	Haematopoietic and Lymphoid	Non-Cancerous	Non-Cancerous (B-lymphoblastoid)
+OE33	SIDM00477	SIDM00477;OE33	Esophagus	Esophageal Carcinoma	Barrett Adenocarcinoma
+Saos-2	SIDM01084	SIDM01084;Saos-2	Bone	Osteosarcoma	
+HCC-78	SIDM01068	SIDM01068;HCC-78	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+ME-1	SIDM00338	SIDM00338;ME-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+EB2	SIDM00863	SIDM00863;EB2	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+CaR-1	SIDM00488	SIDM00488;CaR-1	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+EB-3	SIDM00793	SIDM00793;EB-3	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+769-P	SIDM00803	SIDM00803;769-P	Kidney	Kidney Carcinoma	Clear Cell Renal Cell Carcinoma
+MOG-G-CCM	SIDM00532	SIDM00532;MOG-G-CCM	Central Nervous System	Glioma	Low Grade Glioma
+LS-123	SIDM00776	SIDM00776;LS-123	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+A673	SIDM00848	SIDM00848;A673	Bone	Ewing's Sarcoma	
+CAL-54	SIDM00932	SIDM00932;CAL-54	Kidney	Kidney Carcinoma	
+NCCIT	SIDM00655	SIDM00655;NCCIT	Testis	Other Solid Carcinomas	Testicular embryonal carcinoma
+CAMA-1	SIDM00920	SIDM00920;CAMA-1	Breast	Breast Carcinoma	Breast adenocarcinoma
+OCUM-1	SIDM00568	SIDM00568;OCUM-1	Stomach	Gastric Carcinoma	Gastric signet ring cell adenocarcinoma
+Ramos-2G6-4C10	SIDM01247	SIDM01247;Ramos-2G6-4C10	Haematopoietic and Lymphoid	Burkitt's Lymphoma	
+NCI-H2029	SIDM00735	SIDM00735;NCI-H2029	Lung	Small Cell Lung Carcinoma	
+ES7	SIDM00269	SIDM00269;ES7	Bone	Ewing's Sarcoma	
+NCI-H929	SIDM01148	SIDM01148;NCI-H929	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+DOV13	SIDM00969	SIDM00969;DOV13	Ovary	Ovarian Carcinoma	Ovarian adenocarcinoma
+SNU-C1	SIDM01197	SIDM01197;SNU-C1	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+KYAE-1	SIDM00530	SIDM00530;KYAE-1	Esophagus	Esophageal Carcinoma	Esophageal Adenocarcinoma
+SJSA-1	SIDM01112	SIDM01112;SJSA-1	Bone	Osteosarcoma	
+COLO-320-HSR	SIDM00842	SIDM00842;COLO-320-HSR	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+NCI-H1299	SIDM00649	SIDM00649;NCI-H1299	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+LAN-6	SIDM00330	SIDM00330;LAN-6	Peripheral Nervous System	Neuroblastoma	
+KINGS-1	SIDM00612	SIDM00612;KINGS-1	Central Nervous System	Glioma	Low Grade Glioma
+KMRC-1	SIDM00611	SIDM00611;KMRC-1	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+Hs-578-T	SIDM00135	SIDM00135;Hs-578-T	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+JHH-7	SIDM00614	SIDM00614;JHH-7	Liver	Hepatocellular Carcinoma	
+ACHN	SIDM00123	SIDM00123;ACHN	Kidney	Kidney Carcinoma	Papillary renal cell carcinoma
+L-1236	SIDM00313	SIDM00313;L-1236	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+NCI-H358	SIDM00718	SIDM00718;NCI-H358	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+OPM-2	SIDM00457	SIDM00457;OPM-2	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+SN12C	SIDM00094	SIDM00094;SN12C	Kidney	Kidney Carcinoma	
+MOLT-4	SIDM00145	SIDM00145;MOLT-4	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Adult T acute lymphoblastic leukemia
+ME-180	SIDM00627	SIDM00627;ME-180	Cervix	Cervical Carcinoma	Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma
+SW837	SIDM00833	SIDM00833;SW837	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+TE-8	SIDM00326	SIDM00326;TE-8	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+LB831-BLC	SIDM00181	SIDM00181;LB831-BLC	Bladder	Bladder Carcinoma	
+ES6	SIDM00262	SIDM00262;ES6	Bone	Ewing's Sarcoma	
+HCC70	SIDM00673	SIDM00673;HCC70	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+CHL-1	SIDM01228	SIDM01228;CHL-1	Skin	Melanoma	
+COLO-679	SIDM00284	SIDM00284;COLO-679	Skin	Melanoma	Cutaneous melanoma
+KP-N-YS	SIDM00157	SIDM00157;KP-N-YS	Peripheral Nervous System	Neuroblastoma	
+KARPAS-620	SIDM01006	SIDM01006;KARPAS-620	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+NB10	SIDM00259	SIDM00259;NB10	Peripheral Nervous System	Neuroblastoma	
+SW684	SIDM01175	SIDM01175;SW684	Soft Tissue	Other Sarcomas	Fibrosarcoma
+NCI-H1666	SIDM00743	SIDM00743;NCI-H1666	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+HT-1376	SIDM00678	SIDM00678;HT-1376	Bladder	Bladder Carcinoma	
+HMV-II	SIDM00291	SIDM00291;HMV-II	Skin	Melanoma	Mucosal melanoma
+MDA-MB-231	SIDM00146	SIDM00146;MDA-MB-231	Breast	Breast Carcinoma	Breast adenocarcinoma
+NCI-H2818	SIDM00520	SIDM00520;NCI-H2818	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+PC-3_[JPC-3]	SIDM00361	SIDM00361;PC-3_[JPC-3]	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+QGP-1	SIDM00360	SIDM00360;QGP-1	Pancreas	Other Solid Carcinomas	Pancreatic somatostatinoma
+YH-13	SIDM00316	SIDM00316;YH-13	Central Nervous System	Glioblastoma	
+201T	SIDM00055	SIDM00055;201T	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+CAL-62	SIDM00931	SIDM00931;CAL-62	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+VMRC-RCZ	SIDM00317	SIDM00317;VMRC-RCZ	Kidney	Kidney Carcinoma	
+WSU-DLCL2	SIDM00413	SIDM00413;WSU-DLCL2	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+MRK-nu-1	SIDM00562	SIDM00562;MRK-nu-1	Breast	Breast Carcinoma	
+HOS	SIDM00806	SIDM00806;HOS	Bone	Osteosarcoma	
+NOMO-1	SIDM00580	SIDM00580;NOMO-1	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult acute monocytic leukemia
+IHH-4	SIDM00600	SIDM00600;IHH-4	Thyroid	Thyroid Gland Carcinoma	Thyroid gland papillary carcinoma
+NCI-H748	SIDM01117	SIDM01117;NCI-H748	Lung	Small Cell Lung Carcinoma	
+HCC-33	SIDM01071	SIDM01071;HCC-33	Lung	Small Cell Lung Carcinoma	
+CRO-AP2	SIDM00952	SIDM00952;CRO-AP2	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Primary effusion lymphoma
+NCI-H1993	SIDM00758	SIDM00758;NCI-H1993	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+GI-1	SIDM00273	SIDM00273;GI-1	Central Nervous System	Glioblastoma	
+IGR-37	SIDM01066	SIDM01066;IGR-37	Skin	Melanoma	
+KYSE-450	SIDM01027	SIDM01027;KYSE-450	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+KARPAS-299	SIDM01010	SIDM01010;KARPAS-299	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Anaplastic Large Cell Lymphoma
+HCT-116	SIDM00783	SIDM00783;HCT-116	Large Intestine	Colorectal Carcinoma	
+UM-UC-3	SIDM01182	SIDM01182;UM-UC-3	Bladder	Bladder Carcinoma	
+NCI-H1755	SIDM00738	SIDM00738;NCI-H1755	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+K5	SIDM00056	SIDM00056;K5	Thyroid	Thyroid Gland Carcinoma	Thyroid gland papillary carcinoma
+GCIY	SIDM00274	SIDM00274;GCIY	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+LS-180	SIDM00680	SIDM00680;LS-180	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+JHH-2	SIDM00617	SIDM00617;JHH-2	Liver	Hepatocellular Carcinoma	
+SCC-9	SIDM01080	SIDM01080;SCC-9	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+DMS-114	SIDM00865	SIDM00865;DMS-114	Lung	Small Cell Lung Carcinoma	
+CS1	SIDM00199	SIDM00199;CS1	Bone	Chondrosarcoma	
+H4	SIDM00852	SIDM00852;H4	Central Nervous System	Glioma	Low Grade Glioma
+MDA-MB-436	SIDM00629	SIDM00629;MDA-MB-436	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+NCI-H441	SIDM00925	SIDM00925;NCI-H441	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+HO-1-u-1	SIDM00591	SIDM00591;HO-1-u-1	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+LOXIMVI	SIDM00149	SIDM00149;LOXIMVI	Skin	Melanoma	Cutaneous melanoma
+SK-UT-1	SIDM01113	SIDM01113;SK-UT-1	Soft Tissue	Leiomyosarcoma	Uterine Corpus Leiomyosarcoma
+SK-N-FI	SIDM01099	SIDM01099;SK-N-FI	Peripheral Nervous System	Neuroblastoma	
+MLMA	SIDM00561	SIDM00561;MLMA	Haematopoietic and Lymphoid	Hairy Cell Leukemia	Hairy Cell Leukemia
+NCI-H522	SIDM00116	SIDM00116;NCI-H522	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+EW-7	SIDM00201	SIDM00201;EW-7	Bone	Ewing's Sarcoma	
+NCI-H146	SIDM00698	SIDM00698;NCI-H146	Lung	Small Cell Lung Carcinoma	
+EW-12	SIDM00200	SIDM00200;EW-12	Bone	Ewing's Sarcoma	
+JHU-022	SIDM00127	SIDM00127;JHU-022	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+ES1	SIDM00266	SIDM00266;ES1	Bone	Ewing's Sarcoma	
+NB7	SIDM00156	SIDM00156;NB7	Peripheral Nervous System	Neuroblastoma	
+ESS-1	SIDM01043	SIDM01043;ESS-1	Soft Tissue	Other Sarcomas	Endometrial Stromal Sarcoma
+NCI-H1703	SIDM00740	SIDM00740;NCI-H1703	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+H-EMC-SS	SIDM00535	SIDM00535;H-EMC-SS	Bone	Chondrosarcoma	
+DoTc2-4510	SIDM00864	SIDM00864;DoTc2-4510	Cervix	Cervical Carcinoma	Cervical Carcinoma
+SW1417	SIDM00812	SIDM00812;SW1417	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+MKN45	SIDM00247	SIDM00247;MKN45	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+NCI-H1105	SIDM00652	SIDM00652;NCI-H1105	Lung	Small Cell Lung Carcinoma	
+SU-DHL-6	SIDM00407	SIDM00407;SU-DHL-6	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+TE-9	SIDM00325	SIDM00325;TE-9	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+MHH-CALL-4	SIDM00376	SIDM00376;MHH-CALL-4	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Childhood B acute lymphoblastic leukemia
+NCI-H2452	SIDM00722	SIDM00722;NCI-H2452	Lung	Mesothelioma	Pleural Biphasic Mesothelioma
+NCI-H2342	SIDM00727	SIDM00727;NCI-H2342	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+MFE-280	SIDM00335	SIDM00335;MFE-280	Endometrium	Endometrial Carcinoma	Endometrial adenocarcinoma
+SK-MM-2	SIDM00391	SIDM00391;SK-MM-2	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+Hs-633T	SIDM00667	SIDM00667;Hs-633T	Soft Tissue	Other Sarcomas	Fibrosarcoma
+D-263MG	SIDM00732	SIDM00732;D-263MG	Central Nervous System	Glioblastoma	
+DU-145	SIDM00120	SIDM00120;DU-145	Prostate	Prostate Carcinoma	
+NCI-H1792	SIDM00771	SIDM00771;NCI-H1792	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SK-LMS-1	SIDM01109	SIDM01109;SK-LMS-1	Soft Tissue	Leiomyosarcoma	Vulvar Leiomyosarcoma
+SKN	SIDM00377	SIDM00377;SKN	Soft Tissue	Leiomyosarcoma	Uterine Corpus Leiomyosarcoma
+BFTC-905	SIDM00989	SIDM00989;BFTC-905	Bladder	Bladder Carcinoma	Urothelial carcinoma
+IST-MEL1	SIDM00225	SIDM00225;IST-MEL1	Skin	Melanoma	
+NCI-H2461	SIDM00102	SIDM00102;NCI-H2461	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+HO-1-N-1	SIDM00592	SIDM00592;HO-1-N-1	Head and Neck	Head and Neck Carcinoma	Oral Cavity Squamous Cell Carcinoma
+FU97	SIDM00503	SIDM00503;FU97	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+IST-MES1	SIDM00224	SIDM00224;IST-MES1	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+D-283MED	SIDM00888	SIDM00888;D-283MED	Central Nervous System	Other Solid Carcinomas	Medulloblastoma
+KYSE-70	SIDM01024	SIDM01024;KYSE-70	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+KARPAS-422	SIDM01008	SIDM01008;KARPAS-422	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+RO82-W-1	SIDM00218	SIDM00218;RO82-W-1	Thyroid	Thyroid Gland Carcinoma	Thyroid gland follicular carcinoma
+HDLM-2	SIDM01064	SIDM01064;HDLM-2	Haematopoietic and Lymphoid	Hodgkin's Lymphoma	
+NCI-H1651	SIDM00744	SIDM00744;NCI-H1651	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+TE-441-T	SIDM01173	SIDM01173;TE-441-T	Soft Tissue	Rhabdomyosarcoma	
+IA-LM	SIDM00306	SIDM00306;IA-LM	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+8305C	SIDM00997	SIDM00997;8305C	Thyroid	Thyroid Gland Carcinoma	Thyroid gland anaplastic carcinoma
+EFM-19	SIDM01056	SIDM01056;EFM-19	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+EW-3	SIDM00202	SIDM00202;EW-3	Bone	Ewing's Sarcoma	
+CHP-126	SIDM00286	SIDM00286;CHP-126	Peripheral Nervous System	Neuroblastoma	
+HCC38	SIDM00675	SIDM00675;HCC38	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+HCC1395	SIDM00884	SIDM00884;HCC1395	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+NCI-H2731	SIDM00098	SIDM00098;NCI-H2731	Lung	Mesothelioma	Pleural Sarcomatoid Mesothelioma
+SW1463	SIDM00834	SIDM00834;SW1463	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+TGBC1TKB	SIDM00252	SIDM00252;TGBC1TKB	Biliary Tract	Biliary Tract Carcinoma	Gallbladder carcinoma
+NCI-H64	SIDM01126	SIDM01126;NCI-H64	Lung	Small Cell Lung Carcinoma	
+NCI-H2066	SIDM00711	SIDM00711;NCI-H2066	Lung	Non-Small Cell Lung Carcinoma	Squamous Cell Lung Carcinoma
+LU-165	SIDM00292	SIDM00292;LU-165	Lung	Small Cell Lung Carcinoma	
+SHP-77	SIDM01078	SIDM01078;SHP-77	Lung	Small Cell Lung Carcinoma	
+Mo-T	SIDM00623	SIDM00623;Mo-T	Haematopoietic and Lymphoid	Hairy Cell Leukemia	Hairy Cell Leukemia
+G-292-Clone-A141B1	SIDM00858	SIDM00858;G-292-Clone-A141B1	Bone	Osteosarcoma	
+COR-L88	SIDM00506	SIDM00506;COR-L88	Lung	Small Cell Lung Carcinoma	
+U-266	SIDM00417	SIDM00417;U-266	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+LNZTA3WT4	SIDM01220	SIDM01220;LNZTA3WT4	Central Nervous System	Glioma	Low Grade Glioma
+no-10	SIDM00574	SIDM00574;no-10	Central Nervous System	Glioblastoma	
+SW948	SIDM00832	SIDM00832;SW948	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+PCI-30	SIDM00044	SIDM00044;PCI-30	Head and Neck	Head and Neck Carcinoma	Tongue squamous cell carcinoma
+MDA-MB-330	SIDM00631	SIDM00631;MDA-MB-330	Breast	Breast Carcinoma	Invasive Lobular Breast Carcinoma
+ECC12	SIDM00279	SIDM00279;ECC12	Stomach	Gastric Carcinoma	Gastric small cell carcinoma
+NK-92MI	SIDM01201	SIDM01201;NK-92MI	Haematopoietic and Lymphoid	Other Blood Cancers	Natural Killer Cell Lymphoblastic Leukemia or Lymphoma
+NCI-H647	SIDM01125	SIDM01125;NCI-H647	Lung	Non-Small Cell Lung Carcinoma	Adenosquamous lung carcinoma
+HLE	SIDM00064	SIDM00064;HLE	Liver	Hepatocellular Carcinoma	
+Caov-3	SIDM00919	SIDM00919;Caov-3	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+ECC10	SIDM00280	SIDM00280;ECC10	Stomach	Gastric Carcinoma	Gastic small cell neuroendocrine carcinoma
+NCI-H69	SIDM01121	SIDM01121;NCI-H69	Lung	Small Cell Lung Carcinoma	
+NCI-H2795	SIDM00154	SIDM00154;NCI-H2795	Lung	Mesothelioma	Pleural Epithelioid Mesothelioma
+BPH-1	SIDM00964	SIDM00964;BPH-1	Prostate	Non-Cancerous	SV-40 Transformed Prostatic
+HSC-3	SIDM00589	SIDM00589;HSC-3	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+RVH-421	SIDM00401	SIDM00401;RVH-421	Skin	Melanoma	
+NB12	SIDM00258	SIDM00258;NB12	Peripheral Nervous System	Neuroblastoma	
+KARPAS-1106P	SIDM01011	SIDM01011;KARPAS-1106P	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+A431	SIDM00995	SIDM00995;A431	Skin	Other Solid Carcinomas	Vulvar Squamous Cell Carcinoma
+Detroit562	SIDM00831	SIDM00831;Detroit562	Head and Neck	Head and Neck Carcinoma	Pharyngeal squamous cell carcinoma
+P12-ICHIKAWA	SIDM00463	SIDM00463;P12-ICHIKAWA	Haematopoietic and Lymphoid	T-Lymphoblastic Leukemia	Childhood T acute lymphoblastic leukemia
+DOHH-2	SIDM00981	SIDM00981;DOHH-2	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+D-245MG	SIDM01021	SIDM01021;D-245MG	Central Nervous System	Glioblastoma	
+SK-GT-2	SIDM00393	SIDM00393;SK-GT-2	Stomach	Gastric Carcinoma	Gastric fundus carcinoma
+ETK-1	SIDM00276	SIDM00276;ETK-1	Biliary Tract	Biliary Tract Carcinoma	Intrahepatic Cholangiocarcinoma
+LP-1	SIDM00340	SIDM00340;LP-1	Haematopoietic and Lymphoid	Plasma Cell Myeloma	
+BT-549	SIDM00122	SIDM00122;BT-549	Breast	Breast Carcinoma	Invasive Ductal Carcinoma of No Special Type
+PCI-6A	SIDM00115	SIDM00115;PCI-6A	Head and Neck	Head and Neck Carcinoma	Tonsillar squamous cell carcinoma
+no-11	SIDM00573	SIDM00573;no-11	Central Nervous System	Glioblastoma	
+D-566MG	SIDM00206	SIDM00206;D-566MG	Central Nervous System	Glioblastoma	
+RCC-JF	SIDM00818	SIDM00818;RCC-JF	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+NCI-H2172	SIDM00926	SIDM00926;NCI-H2172	Lung	Non-Small Cell Lung Carcinoma	
+OCI-LY7	SIDM00459	SIDM00459;OCI-LY7	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+MOLM-16	SIDM00435	SIDM00435;MOLM-16	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+CP66-MEL	SIDM00190	SIDM00190;CP66-MEL	Skin	Melanoma	
+U031	SIDM00112	SIDM00112;U031	Kidney	Kidney Carcinoma	
+PCI-4B	SIDM00043	SIDM00043;PCI-4B	Head and Neck	Head and Neck Carcinoma	Laryngeal squamous cell carcinoma
+NCI-H2081	SIDM00710	SIDM00710;NCI-H2081	Lung	Small Cell Lung Carcinoma	
+PL-21	SIDM00450	SIDM00450;PL-21	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Acute Monocytic leukemia
+SU-DHL-4	SIDM00405	SIDM00405;SU-DHL-4	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+SF126	SIDM00382	SIDM00382;SF126	Central Nervous System	Glioblastoma	
+Hs-683	SIDM00666	SIDM00666;Hs-683	Central Nervous System	Glioma	Oligodendroglioma
+SW954	SIDM01157	SIDM01157;SW954	Vulva	Vulvar carcinoma	Vulvar Squamous Cell Carcinoma
+OVCA433	SIDM00966	SIDM00966;OVCA433	Ovary	Ovarian Carcinoma	Ovarian serous adenocarcinoma
+NCI-H508	SIDM00777	SIDM00777;NCI-H508	Large Intestine	Colorectal Carcinoma	Cecum adenocarcinoma
+NCI-H2804	SIDM00310	SIDM00310;NCI-H2804	Lung	Mesothelioma	Malignant Pleural Mesothelioma
+OCI-LY-19	SIDM00460	SIDM00460;OCI-LY-19	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+JHU-029	SIDM00690	SIDM00690;JHU-029	Head and Neck	Head and Neck Carcinoma	Laryngeal squamous cell carcinoma
+TMK-1	SIDM00040	SIDM00040;TMK-1	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+K052	SIDM00018	SIDM00018;K052	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+STS-0421	SIDM00041	SIDM00041;STS-0421	Stomach	Gastric Carcinoma	Gastric adenocarcinoma
+NB6	SIDM00253	SIDM00253;NB6	Peripheral Nervous System	Neuroblastoma	
+EMC-BAC-1	SIDM00048	SIDM00048;EMC-BAC-1	Lung	Non-Small Cell Lung Carcinoma	
+SU-DHL-16	SIDM00404	SIDM00404;SU-DHL-16	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	
+PC-14	SIDM00237	SIDM00237;PC-14	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+D-336MG	SIDM00620	SIDM00620;D-336MG	Central Nervous System	Glioblastoma	
+SIG-M5	SIDM00396	SIDM00396;SIG-M5	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+NCI-H838	SIDM01150	SIDM01150;NCI-H838	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+TE-11	SIDM00348	SIDM00348;TE-11	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+U-2-OS	SIDM01191	SIDM01191;U-2-OS	Bone	Osteosarcoma	
+LB373-MEL-D	SIDM00184	SIDM00184;LB373-MEL-D	Skin	Melanoma	
+CHSA0011	SIDM00051	SIDM00051;CHSA0011	Bone	Chondrosarcoma	
+TE-12	SIDM00023	SIDM00023;TE-12	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+RXF393	SIDM00086	SIDM00086;RXF393	Kidney	Kidney Carcinoma	
+LC-2-ad	SIDM00297	SIDM00297;LC-2-ad	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+OVCAR-3	SIDM00105	SIDM00105;OVCAR-3	Ovary	Ovarian Carcinoma	High grade ovarian serous adenocarcinoma
+RCC-ER	SIDM00820	SIDM00820;RCC-ER	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+CHSA0108	SIDM00050	SIDM00050;CHSA0108	Bone	Chondrosarcoma	
+NU-DUL-1	SIDM00443	SIDM00443;NU-DUL-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+NCI-H2110	SIDM00703	SIDM00703;NCI-H2110	Lung	Non-Small Cell Lung Carcinoma	
+MONO-MAC-6	SIDM01023	SIDM01023;MONO-MAC-6	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Monocytic Leukemia
+RCC-MF	SIDM00816	SIDM00816;RCC-MF	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+NCI-H2869	SIDM00519	SIDM00519;NCI-H2869	Lung	Mesothelioma	Pleural Biphasic Mesothelioma
+MFH-ino	SIDM00299	SIDM00299;MFH-ino	Soft Tissue	Other Sarcomas	Undifferentiated pleomorphic sarcoma
+HH	SIDM00671	SIDM00671;HH	Haematopoietic and Lymphoid	T-Cell Non-Hodgkin's Lymphoma	Cutaneous T-Cell Lymphoma
+NCI-H460	SIDM00144	SIDM00144;NCI-H460	Lung	Non-Small Cell Lung Carcinoma	Lung large cell carcinoma
+LB2518-MEL	SIDM00185	SIDM00185;LB2518-MEL	Skin	Melanoma	
+SW620	SIDM00841	SIDM00841;SW620	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+PFSK-1	SIDM01132	SIDM01132;PFSK-1	Other tissue	Other Solid Carcinomas	Primitive Neuroectodermal Tumor
+K-562	SIDM00791	SIDM00791;K-562	Haematopoietic and Lymphoid	Chronic Myelogenous Leukemia	
+TK10	SIDM00113	SIDM00113;TK10	Kidney	Kidney Carcinoma	Clear cell renal cell carcinoma
+ML-2	SIDM00441	SIDM00441;ML-2	Haematopoietic and Lymphoid	Acute Myeloid Leukemia	Adult Acute Myeloid Leukemia
+HCT-15	SIDM00789	SIDM00789;HCT-15	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+LoVo	SIDM00839	SIDM00839;LoVo	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+COLO-783	SIDM00955	SIDM00955;COLO-783	Skin	Melanoma	
+CPC-N	SIDM00953	SIDM00953;CPC-N	Lung	Small Cell Lung Carcinoma	
+HCC1500	SIDM00879	SIDM00879;HCC1500	Breast	Breast Carcinoma	Ductal Breast Carcinoma
+JHOS-3	SIDM00304	SIDM00304;JHOS-3	Ovary	Ovarian Carcinoma	Ovarian serous adenocarcinoma
+CCK-81	SIDM00487	SIDM00487;CCK-81	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+MDA-MB-415	SIDM00630	SIDM00630;MDA-MB-415	Breast	Breast Carcinoma	Breast adenocarcinoma
+MZ7-mel	SIDM00516	SIDM00516;MZ7-mel	Skin	Melanoma	
+NCC021	SIDM00232	SIDM00232;NCC021	Kidney	Kidney Carcinoma	
+SK-MEL-3	SIDM01105	SIDM01105;SK-MEL-3	Skin	Melanoma	Cutaneous melanoma
+KYSE-270	SIDM01029	SIDM01029;KYSE-270	Esophagus	Esophageal Carcinoma	Esophageal Squamous Cell Carcinoma
+COR-L321	SIDM00507	SIDM00507;COR-L321	Lung	Other Solid Carcinomas	Lung Carcinoma
+ROS-50	SIDM00415	SIDM00415;ROS-50	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Diffuse large B-cell lymphoma
+Hs-940-T	SIDM00662	SIDM00662;Hs-940-T	Skin	Melanoma	Cutaneous melanoma
+OVK-18	SIDM00238	SIDM00238;OVK-18	Ovary	Ovarian Carcinoma	Ovarian endometrioid adenocarcinoma
+NCI-H1355	SIDM00645	SIDM00645;NCI-H1355	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+DMS-79	SIDM00524	SIDM00524;DMS-79	Lung	Small Cell Lung Carcinoma	
+COR-L303	SIDM00510	SIDM00510;COR-L303	Lung	Small Cell Lung Carcinoma	
+BICR31	SIDM00078	SIDM00078;BICR31	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+A4-Fuk	SIDM00502	SIDM00502;A4-Fuk	Haematopoietic and Lymphoid	B-Lymphoblastic Leukemia	Adult B acute lymphoblastic leukemia
+UWB1.289	SIDM00815	SIDM00815;UWB1.289	Ovary	Ovarian Carcinoma	
+NCI-H740	SIDM01118	SIDM01118;NCI-H740	Lung	Small Cell Lung Carcinoma	
+LB647-SCLC	SIDM00183	SIDM00183;LB647-SCLC	Lung	Small Cell Lung Carcinoma	
+NCI-H2291	SIDM00728	SIDM00728;NCI-H2291	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+MOG-G-UVW	SIDM00504	SIDM00504;MOG-G-UVW	Central Nervous System	Glioma	Low Grade Glioma
+NCI-H2227	SIDM00730	SIDM00730;NCI-H2227	Lung	Small Cell Lung Carcinoma	
+OAW-42	SIDM00480	SIDM00480;OAW-42	Ovary	Ovarian Carcinoma	Ovarian Cystadenocarcinoma
+IST-SL1	SIDM00223	SIDM00223;IST-SL1	Lung	Small Cell Lung Carcinoma	
+NCI-H1734	SIDM00739	SIDM00739;NCI-H1734	Lung	Non-Small Cell Lung Carcinoma	Lung Adenocarcinoma
+SNU-283	SIDM00215	SIDM00215;SNU-283	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+BONNA-12	SIDM00984	SIDM00984;BONNA-12	Haematopoietic and Lymphoid	Hairy Cell Leukemia	Hairy Cell Leukemia
+U-CH2	SIDM01185	SIDM01185;U-CH2	Other tissue	Other Solid Carcinomas	Sacral chordoma
+NCI-H250	SIDM00721	SIDM00721;NCI-H250	Lung	Small Cell Lung Carcinoma	
+NCI-H345	SIDM00719	SIDM00719;NCI-H345	Lung	Small Cell Lung Carcinoma	
+RCM-1	SIDM00359	SIDM00359;RCM-1	Large Intestine	Colorectal Carcinoma	Rectal adenocarcinoma
+SW1116	SIDM00835	SIDM00835;SW1116	Large Intestine	Colorectal Carcinoma	Colon adenocarcinoma
+COR-L95	SIDM00521	SIDM00521;COR-L95	Lung	Small Cell Lung Carcinoma	
+COR-L32	SIDM00508	SIDM00508;COR-L32	Lung	Uncertain	
+NCI-H510A	SIDM00927	SIDM00927;NCI-H510A	Lung	Small Cell Lung Carcinoma	
+NCI-H2171	SIDM00733	SIDM00733;NCI-H2171	Lung	Small Cell Lung Carcinoma	
+KP-N-RT-BM-1	SIDM00557	SIDM00557;KP-N-RT-BM-1	Peripheral Nervous System	Neuroblastoma	
+NCI-H660	SIDM01123	SIDM01123;NCI-H660	Prostate	Prostate Carcinoma	Prostate small cell carcinoma
+NCI-H1836	SIDM00770	SIDM00770;NCI-H1836	Lung	Small Cell Lung Carcinoma	
+SNU-475	SIDM01196	SIDM01196;SNU-475	Liver	Hepatocellular Carcinoma	
+VMRC-RCW	SIDM00318	SIDM00318;VMRC-RCW	Kidney	Kidney Carcinoma	
+NCI-H1304	SIDM00648	SIDM00648;NCI-H1304	Lung	Small Cell Lung Carcinoma	
+SC-1	SIDM00400	SIDM00400;SC-1	Haematopoietic and Lymphoid	B-Cell Non-Hodgkin's Lymphoma	Follicular lymphoma
+SCC-25	SIDM01082	SIDM01082;SCC-25	Head and Neck	Head and Neck Carcinoma	Tongue Squamous Cell Carcinoma
+VMRC-MELG	SIDM00319	SIDM00319;VMRC-MELG	Skin	Melanoma	
+IST-SL2	SIDM00230	SIDM00230;IST-SL2	Lung	Small Cell Lung Carcinoma	
